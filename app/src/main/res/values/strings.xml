@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PraktikumModul5</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="klik_tombol_dibawah_untuk_menampilkan_lokasi">KLIK TOMBOL DIBAWAH UNTUK MENAMPILKAN LOKASI</string>
+    <string name="sekolah">SEKOLAH</string>
+</resources>
